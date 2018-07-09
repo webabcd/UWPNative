@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>a8e41469-d14c-4f67-91a0-6d68272c2b36</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="cArray.c" />
+    <ClCompile Include="cDataType.c" />
+    <ClCompile Include="cFile.c" />
+    <ClCompile Include="cFunction.c" />
+    <ClCompile Include="cHello.c" />
+    <ClCompile Include="cHelper.c" />
+    <ClCompile Include="cIO.c" />
+    <ClCompile Include="cMemory.c" />
+    <ClCompile Include="cOperator.c" />
+    <ClCompile Include="cPointer.c" />
+    <ClCompile Include="CppAnimal.cpp" />
+    <ClCompile Include="CppBase1.cpp" />
+    <ClCompile Include="CppBase2.cpp" />
+    <ClCompile Include="CppBaseVirtual.cpp" />
+    <ClCompile Include="CppChild.cpp" />
+    <ClCompile Include="CppClass1.cpp" />
+    <ClCompile Include="CppClass2.cpp" />
+    <ClCompile Include="CppClass3.cpp" />
+    <ClCompile Include="CppClass4.cpp" />
+    <ClCompile Include="CppClass5.cpp" />
+    <ClCompile Include="CppClass6.cpp" />
+    <ClCompile Include="CppClass7.cpp" />
+    <ClCompile Include="CppCx.cpp" />
+    <ClCompile Include="CppDerived.cpp" />
+    <ClCompile Include="CppDiff.cpp" />
+    <ClCompile Include="CppEmployee.cpp" />
+    <ClCompile Include="CppFunction1.cpp" />
+    <ClCompile Include="CppFunction2.cpp" />
+    <ClCompile Include="CppHello.cpp" />
+    <ClCompile Include="cppHelper.cpp" />
+    <ClCompile Include="CppHuman.cpp" />
+    <ClCompile Include="CppIO1.cpp" />
+    <ClCompile Include="CppIO2.cpp" />
+    <ClCompile Include="CppIO3.cpp" />
+    <ClCompile Include="CppNamespace.cpp" />
+    <ClCompile Include="CppOperator.cpp" />
+    <ClCompile Include="CppReference.cpp" />
+    <ClCompile Include="CppTiger.cpp" />
+    <ClCompile Include="cPreprocessor.c" />
+    <ClCompile Include="cStatement.c" />
+    <ClCompile Include="cStruct.c" />
+    <ClCompile Include="DemoC.cpp" />
+    <ClCompile Include="DemoCpp.cpp" />
+    <ClCompile Include="DemoCx.cpp" />
+    <ClCompile Include="Simple.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="cArray.h" />
+    <ClInclude Include="cDataType.h" />
+    <ClInclude Include="cFile.h" />
+    <ClInclude Include="cFunction.h" />
+    <ClInclude Include="cHello.h" />
+    <ClInclude Include="cHelper.h" />
+    <ClInclude Include="cIO.h" />
+    <ClInclude Include="cMemory.h" />
+    <ClInclude Include="cOperator.h" />
+    <ClInclude Include="cPointer.h" />
+    <ClInclude Include="CppAnimal.h" />
+    <ClInclude Include="CppBase1.h" />
+    <ClInclude Include="CppBase2.h" />
+    <ClInclude Include="CppBaseVirtual.h" />
+    <ClInclude Include="CppChild.h" />
+    <ClInclude Include="CppClass1.h" />
+    <ClInclude Include="CppClass2.h" />
+    <ClInclude Include="CppClass3.h" />
+    <ClInclude Include="CppClass4.h" />
+    <ClInclude Include="CppClass5.h" />
+    <ClInclude Include="CppClass6.h" />
+    <ClInclude Include="CppClass7.h" />
+    <ClInclude Include="CppCx.h" />
+    <ClInclude Include="CppDerived.h" />
+    <ClInclude Include="CppDiff.h" />
+    <ClInclude Include="CppEmployee.h" />
+    <ClInclude Include="CppFunction1.h" />
+    <ClInclude Include="CppFunction2.h" />
+    <ClInclude Include="CppHello.h" />
+    <ClInclude Include="cppHelper.h" />
+    <ClInclude Include="CppHuman.h" />
+    <ClInclude Include="CppIO1.h" />
+    <ClInclude Include="CppIO2.h" />
+    <ClInclude Include="CppIO3.h" />
+    <ClInclude Include="CppNamespace.h" />
+    <ClInclude Include="CppOperator.h" />
+    <ClInclude Include="CppReference.h" />
+    <ClInclude Include="CppTiger.h" />
+    <ClInclude Include="cPreprocessor.h" />
+    <ClInclude Include="cStatement.h" />
+    <ClInclude Include="cStruct.h" />
+    <ClInclude Include="DemoC.h" />
+    <ClInclude Include="DemoCpp.h" />
+    <ClInclude Include="DemoCx.h" />
+    <ClInclude Include="ICallback.h" />
+    <ClInclude Include="Simple.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+  </ItemGroup>
+</Project>
